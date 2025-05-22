@@ -1,0 +1,4 @@
+python-docx
+PyPDF2
+requests
+python-dotenv
